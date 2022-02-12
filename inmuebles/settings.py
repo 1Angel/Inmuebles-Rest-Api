@@ -100,10 +100,10 @@ AUTH_USER_MODEL = 'user_app.Account'
 DATABASES = {
     'default': {
         'ENGINE': 'django.db.backends.postgresql',
-        'USER': 'orceunbpyoarkz',
-        'NAME': 'd84pncmihajqo7',
-        'PASSWORD': '5d9d23424d68ddfc6af8774c820d574f8f3e63ee1aa84086b9b3ea50ae1e6cc7',
-        'HOST': 'ec2-18-235-114-62.compute-1.amazonaws.com'
+        'USER': 'ohkvgxnhlzgcke',
+        'NAME': 'dbsrle7uud10io',
+        'PASSWORD': '67abb30bab4b4aa1fb183d15349c520ec3bd60943cd7f365461cf13dae6f0338',
+        'HOST': 'ec2-34-233-157-189.compute-1.amazonaws.com'
     }
 }
 
